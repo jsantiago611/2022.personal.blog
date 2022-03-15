@@ -36,8 +36,8 @@ home = ["HTML", "RSS", "JSON"]
 author = "Jonathan Santiago"
 description = "This is meta description"
 [params.banner]
-heading = "The New UMoMA Opens its Doors"
-image = "images/2020-landscape-1-2.png"
+heading = "Building successful spiritual habits"
+image = ""
 [params.blog]
 heading = ""
 [params.call_to_action]
