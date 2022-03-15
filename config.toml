@@ -37,7 +37,7 @@ weight = 5
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
-author = "Themefisher"
+author = "Jonathan Santiago"
 description = "This is meta description"
 [params.banner]
 heading = "The New UMoMA Opens its Doors"
